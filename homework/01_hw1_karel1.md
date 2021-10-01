@@ -5,7 +5,7 @@ parent: დავალებები
 
 კარელი უნდა მივიდეს ბურთთან, რომელიც დევს მეოთხე უჯრაზე და აიღოს.
 
-<https://codehs.com/student/2515819/section/258992/assignment/41699405/>
+<https://codehs.com/lms/assignment/41699405/>
  
 
 
