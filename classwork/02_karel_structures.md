@@ -17,9 +17,6 @@ parent: სემინარები
 
 ### "მარტივი" კოდი
 
-<details>
-<summary>კოდის ჩვენება</summary>
-
 ```js
 function pancakes1() {
     move();
@@ -40,15 +37,11 @@ function pancakes1() {
     move();
 }
 ```
-</details>
 
 რა მოხდება, თუ გვთხოვენ სამის მაგივრად ოთხი ბურთი დავდოთ თითოეულ უჯრაზე?
 
 
 ### ფუნქციის გამოყენება
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function pancakesWithFunction() {
@@ -65,12 +58,8 @@ function makePancake() {
     move();
 }
 ```
-</details>
 
 ### დეკომპოზიცია
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function pancakesDecomposed() {
@@ -91,14 +80,10 @@ function putBalls() {
     putBall();
 }
 ```
-</details>
 
 
 
 ## 2.1.5: Backflip
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function backFlip() {
@@ -118,16 +103,12 @@ function doBackFlip() {
     turnLeft();
 }
 ```
-</details>
 
 
 ## 3.3.6: Dizzy Karel
 ### მარტივი ამოხსნა
 თუ დავაკვირდებით, რომ 8-ჯერ დატრიალება 32-ჯერ მარცხნივ შეტრიალებას ნიშნავს, ამოცანა ძალიან მარტივად ამოხსნება.
 
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 
@@ -138,13 +119,9 @@ function dizzySimple() {
     move();
 }
 ```
-</details>
 
 ### nesting
 ყოველთვის ამის საშუალებას არ მოგვცემს პირობა, ამიტომ 
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function dizzyNested() {
@@ -155,14 +132,10 @@ function dizzyNested() {
     }
 }
 ```
-</details>
 
 ### დეკომპოზიცია
 "მუშა" კოდის დაწერის შემდეგ გავაკეთოთ კიდევ ერთი გადახედვა და დავფიქრდეთ, ხომ არ შეგვიძლია კოდის ხარისხი გავაუმჯობესოთ?
 
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function dizzyDecomposed() {
@@ -177,7 +150,6 @@ function backFlip() {
     }
 }
 ```
-</details>
 
 ## 4.1.5: Is There a Ball?
 ეს ამოცანა პატარაა, მაგრამ მაინც top down დიზაინით გავაკეთოთ. ამისთვის უბრალოდ პირობა "გადავწეროთ კოდში".
@@ -188,9 +160,6 @@ function backFlip() {
 ## 5.1.5: Lay Row of Tennis Balls
 
 ### Off by one bug
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function fillLineBuggy(){
@@ -200,12 +169,8 @@ function fillLineBuggy(){
     }
 }
 ```
-</details>
 
 ### ორნაირი ამოხსნა
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function fillLine1() {
@@ -225,13 +190,9 @@ function fillLine2() {
 }
 ```
 
-</details>
 
 
 ### ალტერნატიული ამოხსნა
-<details>
-
-<summary>კოდის ჩვენება</summary>
 
 ```js
 function fillLine3() {
@@ -243,7 +204,6 @@ function fillLine3() {
     }
 }
 ```
-</details>
 
 
 
