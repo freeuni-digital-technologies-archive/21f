@@ -86,7 +86,7 @@ function putBalls() {
 ## 2.1.5: Backflip
 
 ```js
-function backFlip() {
+function start() {
     moveAndBackFlip();
     moveAndBackFlip();
 }
@@ -94,9 +94,9 @@ function backFlip() {
 function moveAndBackFlip() {
     move();
     move();
-    doBackFlip();
+    backFlip();
 }
-function doBackFlip() {
+function backFlip() {
     turnLeft();
     turnLeft();
     turnLeft();
