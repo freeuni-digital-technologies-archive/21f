@@ -4,26 +4,32 @@ parent: დავალებები
 ---
 
 
-დავალება არის მესამე კვირის მასალაში codehs-ზე. დავალების დაწყებამდე გააკეთეთ სემინარი. 
+### Racing Karel
+კარელის სამყარო არის სარბენი ბილიკი და იგი იწყებს რბოლას.
 
-Karel’s world is a racetrack, and Karel is going to run a race.
+თქვენი ამოცანაა კარელმა გაიაროს სარბენი ბილიკი რვაჯერ და დაბრუნდეს მის საწყის პოზიციაზე. ყოველ ჯერზე, როდესაც კარელი მოხვდება კუთხეში, მან უნდა დადოს ბურთი. შესაბამისად, რბოლის დასრულების შემდეგ, თითო კუთხეში 8 ბურთი იქნება დადებული.
 
-Your task is to get Karel to move around the racetrack eight times, and end up back in his starting location. Every time Karel hits a corner, you should put a ball down, so at the end, there are 8 balls on each corner.
-
-This program should work on any valid racetrack. A valid racetrack is one where the outermost border of the world is open, but there are walls one street and one avenue in from the edges.
-
-Tips
-- ბრძანებები turnRight() და turnAround() შეგიძლია პირდაპირ გამოიყენო
-- Make sure to test your program on the different worlds. It should run around any size racetrack.
-- Make sure to use functions and control structures.
-- Make sure to comment your code!
-
+პროგრამამ უნდა იმუშავოს ნებისმიერ ვალიდურ სამყაროში. ვალიდური სამყარო არის ის, სადაც სარბენი ბილიკი არის მოქცეული სამყაროს გარე საზღვარსა და ერთი უჯრის სიღრმით მოქცეულ საზღვარს შორის. თითოეული კუთხიდან, ერთი ქუჩისა და ერთი ხეივანის მოშორებით ვხვდებით შიდა საზღვარს. მაგალითები შეგიძლიათ იხილოთ დავალებასთან დართულ ფოტოებში. 
 
 <details>
 <summary>მინიშნება 1</summary>
+თქვენ გაქვთ უფლება გამოიყენოთ სუპერ კარელის ბრძანებები, როგორიცაა turnRight() და turnAround()
+</details>
 
+<details>
+<summary>მინიშნება 2</summary>
+დარწმუნდით, რომ თქვენი პროგრამა მუშაობს სხვადასხვა სამყაროებში. კარელს უნდა შეეძლოს ნებისმიერი ზომის სარბენი ბილიკის გავლა
+</details>
+
+<details>
+<summary>მინიშნება 3</summary>
+დარწმუნდით, რომ იყენებთ ფუნქციებსა და კონტროლის სტრუქტურებს
+</details>
+
+
+<details>
+<summary>მინიშნება 4</summary>
+დარწმუნდით, რომ იყენებთ კომენტარებს თქვენი ფუნქციონალის ასაღწერად. კომენტარები ამარტივებს კოდის კითხვას
 </details>
 
 შეგახსენებთ, რომ ატვირთვის წესები გამოქვეყნებულია [დავალებების](/homework) გვერდზე
-
-
