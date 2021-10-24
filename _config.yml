@@ -7,7 +7,7 @@ description: თბილისის თავისუფალი უნი�
 baseurl: # repo name
 url: "https://freeuni-digital-technologies.github.io" 
 
-exclude: [] 
+exclude: ["lectures/slides"] 
 
 search_enabled: true
 search:
