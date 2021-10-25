@@ -63,6 +63,8 @@ ARPANET არის პირველი კომპიუტერული 
 
 ჩიპის გამოყენებით მიღებული ინფორმაციის წაკითხვა/ჩაწერა ისევე შეიძლება, როგორც მეხსიერებიდან - უბრალოდ 1 და 0-ების მიმდევრობას ვიღებთ.
 
+![network card](https://cdn-reichelt.de/bilder/web/xxl_ws/E910/DLINK_DGE528T.png)
+
 ![](https://www.researchgate.net/publication/309595949/figure/fig2/AS:424332557066241@1478180173228/Digital-to-analog-modulation-14.png)
 
 ### პროტოკოლები
@@ -70,6 +72,7 @@ ARPANET არის პირველი კომპიუტერული 
 - Bluetooth
 - ethernet/wifi
 - usb
+- infra red
 
 usb განსაკუთრებით მძლავრი პროტოკოლია, დააკვირდით რამდენი სრულიად განსხვავებული მოწყობილობა იყენებს - პორტატული დრაივი, პრინტერი, MIDI
 
