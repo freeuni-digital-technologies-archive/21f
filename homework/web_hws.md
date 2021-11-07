@@ -1,7 +1,6 @@
 ---
 title: ვების დავალებები 5-8
 parent: დავალებები
-nav_exclude: true
 ---
 
 
