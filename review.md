@@ -70,7 +70,6 @@ nav_order: 3
 - [ცვლადები, ფუნქციები](/classwork/07_javascript_karel) (მაგალითები კარელში)
 - [DOM javascript](/classwork/07b_DOM_intro) შესავალი
 
-
 <details markdown="block">
 
 <summary>მომავალი კვირების გეგმა</summary>
