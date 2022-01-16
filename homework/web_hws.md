@@ -8,11 +8,10 @@ parent: დავალებები
 
 **დავალებაში შეცდომების აღმოჩენის შემთხვევაში, გთხოვთ, მიმართეთ გიგის მეილზე. subject-ში მიუთითეთ "ციფრული web hw"**
 
-- დავალება 5 [html/css](./hw6.zip)
+- დავალება 5 [html/css](https://freeuni-digital-technologies.github.io/webHwInterface/hw5/hw5.zip)
 - დავალება 6 [javascript](https://freeuni-digital-technologies.github.io/webHwInterface/hw6/hw6.zip)
-- დავალება 7 სოციალური მედიის აპლიკაცია
-<!-- - მგონი მერვე დავალების თავი არ მექნება ძაან დავიღალე -->
-
+- დავალება 7 [სოციალური მედიის აპლიკაცია](https://freeuni-digital-technologies.github.io/webHwInterface/hw7/hw7.zip)
+- [დავალება 8](https://freeuni-digital-technologies.github.io/webHwInterface/hw8/hw8.zip)
 
 ## ვებ დავალებების ატვირთვის წესი
 - ჯერ შეამოწმე, რომ ყველა ტესტი გადის პაროლის გვერდიდან ბოლომდე
