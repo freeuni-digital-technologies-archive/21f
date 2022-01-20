@@ -15,6 +15,12 @@ nav_order: 3
 + [ამ საიტზე](https://freeuni-digital-technologies.github.io/application_examples/) ატვირთულია ბოლო კვირებში სემინარებზე განხილული არასავალდებულო მაგალითები (არჩევნების სიმულაცია, ანალიტიკის მაგალითი, დაშიფვრის იმპლემენტაცია)
 
 
+- ამ კვირას დამატებული ჩანაწერები:
+	- [14. ალგორითმები](lectures/14_algorithms)
+	- [15. ციფრული უსაფრთხოება](https://drive.google.com/file/d/1eK31pX6hGFnFcD9mV7yrEjnuvS3E2b6I/view?usp=sharing)
+	- [16. ხელოვნური ინტელექტი](#16. 17 იანვარი)
+
+
 <details markdown="1">
 
 <summary>წინა კვირების შეჯამება</summary>
@@ -146,7 +152,9 @@ nav_order: 3
 
 ### 16. 17 იანვარი
 
-- ლექცია - [ხელოვნური ინტელექტი. მანქანური სწავლება](https://freeuni-digital-technologies.github.io/21s/lectures/13_ai.html) (არასავალდებულო)
+- ლექცია - [ხელოვნური ინტელექტი. მანქანური სწავლება](https://freeuni-digital-technologies.github.io/21s/lectures/13_ai.html) (არასავალდებულო). ჩანაწერი
+	- [პირველი ნაწილი](https://drive.google.com/file/d/1E6cU767TezM2gTmjVUeo0t5BL7CrLXpa/view?usp=sharing)
+	- [მეორე ნაწილი](https://drive.google.com/file/d/1pTGpF-1WQMui3NvPwwDlZ8Cn7YhHpybV/view?usp=sharing)
 
 
 </details>

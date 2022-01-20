@@ -5,6 +5,10 @@ parent: ლექციები
 
 # ციფრული უსაფრთხოება
 
+<!-- n -->
+- [ლექციის ჩანაწერი](https://drive.google.com/file/d/1eK31pX6hGFnFcD9mV7yrEjnuvS3E2b6I/view?usp=sharing)
+- ამ მასალის უკეთ აღსაქმელად გირჩევთ [სემინარის მაგალითების](https://freeuni-digital-technologies.github.io/application_examples/encryption/index.html) გარჩევას (არის ჩანაწერიც). მიუხედავად იმისა, რომ კოდი სავალდებულო არაა, ტერმინების აზრს და განსხვავებებს უკეთ გაიგებთ
+
 # 
 რამდენად უსაფრთხოა ტექნოლოგიები, რომელსაც ვიყენებთ?
 
