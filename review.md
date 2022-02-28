@@ -5,9 +5,9 @@ nav_order: 3
 
 
 გამოცდის გადაბარების კითხვები:
-- https://freeuni-digital-technologies.github.io/info/final_retake.html
+- <https://freeuni-digital-technologies.github.io/info/final_retake.html>
 თუ რამე შენიშვნა გაქვს, შეგიძლია შეავსო კითხვარი. პრეტენზიები დააფიქსირეთ მხოლოდ ამ ფორმით, მეილებს არ ვპასუხობ.
-- https://forms.gle/H6qAyvQHuzeHLyCX8
+- <https://forms.gle/H6qAyvQHuzeHLyCX8>
 
 
 
