@@ -2,10 +2,10 @@ remote_theme: pmarsceill/just-the-docs
 
 
 title: შესავალი ციფრულ ტექნოლოგიებში
-description: თბილისის თავისუფალი უნივერსიტეტი, 2021 გაზაფხული
+description: თბილისის თავისუფალი უნივერსიტეტი, 2020 შემოდგომა
 
-baseurl: # repo name
-url: "https://freeuni-digital-technologies.github.io" 
+baseurl: "21f" # repo name
+url: "https://freeuni-digital-technologies-archive.github.io" 
 
 exclude: ["lectures/slides"] 
 
@@ -24,7 +24,7 @@ heading_anchors: true
 
 aux_links: 
     "საიტის კოდი GitHub-ზე":
-    - "//github.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io"
+    - "//github.com/freeuni-digital-technologies-archive/20f"
     "google classroom: BE2TRVZ":
     - "https://classroom.google.com/c/Mzk5NzYzODYyMjQz?cjc=be2trvz"
 
@@ -37,7 +37,7 @@ back_to_top_text: "გვერდის დასაწყისში და�
 
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "ამ გვერდის კოდი"
-gh_edit_repository: "https://github.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/freeuni-digital-technologies-archive/21f" # the github URL for your repo
 gh_edit_branch: "master" 
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
